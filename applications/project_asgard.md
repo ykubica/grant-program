@@ -4,7 +4,7 @@
 
 - Project: Project Asgard
 - Team Name: YAL
-- Payment Address: 0xa4Cf1c6443CEE677394D709D5CAf7fAB9bf2f077
+- ETH Payment Address: 0x3E0ED2825699362A63F1506c755f9E893Fa82FDB
 
 > ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
 
