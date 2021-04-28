@@ -2,28 +2,26 @@
 
 ## Project Overview 
 
-- Project: The name of the project
-- Team Name: Legal name of your team 
-- Payment Address: USDT (ERC 20) payment address. We don't accept payments for the program in other currencies at this stage.
+- Project: Project Asgard
+- Team Name: YAL
+- Payment Address: 0xa4Cf1c6443CEE677394D709D5CAf7fAB9bf2f077
 
 > ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
 
 ### Overview
 
 Please provide the following:
-- A brief description of the project.
-- An indication of why your team is interested in creating this project within the VeChain Ecosystem.
-- If relevant, an indication of how you will integrate tools and features (e.g., Sync2/Connex, fee delegation protocols, MTT, etc) to enhance your project. 
+- The system aims to create an original, hardcore, online card collecting game executed on the VeChain Network. The goal for the project is to maintain a website/web application   selling digital cards to users, creating a steady income with potential profits. Users will benefit from various bonuses for collecting and completing card sets.
+- Our team has been supportive of Vechain since 2017, we each own a small portion of VET and VTHO and are passionate about the success of the project. We believe the two token     system is at a unique selling point in the world of blockchains, as it allows organisations to produce affordable tokens when comparing to other platforms such as Ethereum. We   believe that Vechain has a lot of potential and we feel that Vechain is still in it's early stages of development. Vechain is our oganisation of choice for dapp development     and we are excited to see the developments in dev tools in the future.
+- We would like users to be able to use thor and connex to purchase NFT trading cards. We would also like users to be able to trade and purchase each others cards.
 
 ### Project Details
 
 We expect the teams to already have a solid idea about the project's expected final state.
 Therefore, we ask the teams to submit (where relevant):
-- Mockups/designs of any UI components
-- API specifications of the core functionality
-- An overview of the technology stack to be used
-- Documentation of core components, protocols, architecture, etc. to be deployed
-- PoC/MVP or other relevant prior work or research on the topic
+
+- We have additional documentation available to view here: https://drive.google.com/drive/folders/1mlP2xs8yTeQvb561k-SYdeMQTigv7lNX?usp=sharing
+- We have included screenshots of the card designs in the drive.
 
 ### Ecosystem Fit
 Are there any other projects similar to yours? If so, how is your project different?
@@ -32,38 +30,39 @@ Are there any other projects similar to yours? If so, how is your project differ
 
 ### Team members
 
-- Name of team leader
-- Names of team members
+- Team Leader and Developer: Yasin Kubica
+- Art Direction: Levi Zepanta
+- Creative Manager: Alexander Medrano
 
 ### Team Website
 
-- https://<your_domain>
+- We currently do not have a website
 
 ### Team's experience
 
-Please describe the team's relevant experience. If the project involves development work, then we'd appreciated it if you can single out a few interesting codes commits made by team members on their past projects. 
+Our team has 10+ collective years in the IT industry, however we are relatively new to blockchain. This will be our team's first project.
 
 ### Team Code Repos
 
-- https://github.com/<your_repo_1>
-- https://github.com/<your_repo_2>
+- https://github.com/ykubica/Project_Asgard
 
 ### Team LinkedIn Profiles
 
-- https://www.linkedin.com/<person_1>
-- https://www.linkedin.com/<person_2>
+- https://www.linkedin.com/in/ykubica
+- https://www.linkedin.com/in/levizapanta/
+- https://www.linkedin.com/in/alexander-medrano-b723b1b7/
 
 ## Development Roadmap 
 
-This section should break out the development roadmap into a number of milestones. Since the milestones will appear in the grant contract, it helps to describe the functionality we should expect, plus how we can check that such functionality exists in the product. Whenever milestones are delivered, we refer to the contract to ensure that everything has been delivered as expected.
+- We would like to have our first iteration of the system launched by Q1 2022.
+  This will include around 150 unique NFTs available for purchase on our marketplace.
+  Users will have their own collection area to view their owned cards
+- The relinquished system will be completed by Q1 2023
+- During the time, we will think of more ways to make the cards usable, such as implementation of a game, etc.
 
 Below we provide an <b>example roadmap</b>. For each milestone:
 
-- Please indicate the milestone duration, workload in terms of full-time equivalent (FTE) and cost. 
-- Please be sure to include a specification of the software. The level of details must be high enough so that we are able to verify that the software meets the specification.
-- Please note that we require documentation (e.g. tutorials, API specifications, architecture details) in each milestone. This ensures that the code can be widely used by the community.
-- Please provide a test suite, comprising unit and integration tests, along with a guide on how to run these.
-- Please commit to providing dockerfiles for the delivery of your project.
+- Any extra information can be viewed on https://drive.google.com/drive/folders/1mlP2xs8yTeQvb561k-SYdeMQTigv7lNX?usp=sharing
 
 
 ### Example Roadmap for a dApp Application
@@ -96,13 +95,12 @@ As part of the Program, we require that you produce and publish at least one art
 
 ## Future Plans
 
-Please include the team's long-term plans and intentions.
+We intend on working on this full time if the first iteration is successful. We plan on making more fun and interactive games using vechain.
 
 ## Additional Information 
 
 Any additional information that you think is relevant to this application that hasn't already been included.
 
 Possible additional information to include:
-- What work has been done so far?
-- Are there any teams who have already contributed (financially) to the project?
-- Have you applied for other grants so far?
+- So far we have only completed the project management stage, we are moving onto the development stage now.
+- The funding of this project is out of our own pockets.
